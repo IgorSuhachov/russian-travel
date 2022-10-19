@@ -1,3 +1,10 @@
 .place {
-  color: #fff;
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  gap: 48px 40px;
+}
+
+.place:last-of-type {
+  margin-bottom: 0;
 }
