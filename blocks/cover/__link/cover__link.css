@@ -1,0 +1,11 @@
+.cover__link {
+  background-image: url(../../../images/__background.png);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1184px;
+  min-height: 740px;
+  text-decoration: none;
+  color: #fff;
+}
