@@ -1,7 +1,12 @@
 /* NORMALIZE */
 @import url(../vendor/normalize.css);
+
+/* FONTS */
+@import url(../vendor/fonts.css);
+
 /* BODY */
 @import url(../blocks/body/body.css);
+
 /* PAGE */
 @import url(../blocks/page/page.css);
 
