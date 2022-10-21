@@ -40,7 +40,7 @@
 @import url(../blocks/list/__numbers/list__numbers.css);
 
 /* PHOTO-GRID */
-@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__items/photo-grid__items.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* PLACES */
